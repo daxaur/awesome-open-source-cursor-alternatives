@@ -85,6 +85,12 @@ Cursor has set a high bar for AI integration in the development workflow. Howeve
     *   **License:** (Verify on project page)
     *   **Link:** (Find official GitHub/website)
 
+*   **[OpenPaw](https://github.com/daxaur/openpaw):**
+    *   **Description:** Open-source CLI tool that turns Claude Code into a personal assistant with 38 skills — email, calendar, Spotify, smart home, Slack, GitHub, and more.
+    *   **Key Features:** 38 built-in skills, zero-config setup via `npx pawmode`, no daemon, no cloud.
+    *   **License:** MIT
+    *   **Link:** [GitHub - daxaur/openpaw](https://github.com/daxaur/openpaw)
+
 ## Other Potential Alternatives (Needs Research)
 
 The following tools were identified from the [awesome-code-ai list](https://github.com/sourcegraph/awesome-code-ai) and other searches. They require further investigation to determine their suitability, open-source status, and features as Cursor alternatives. This is by no means an exhaustive list, and contributions are welcome!
